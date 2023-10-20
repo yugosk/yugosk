@@ -1,7 +1,7 @@
 ## Hi! I am Yugo!
 
 ### About me:
-  My name is Yugo Sakamoto, it's nice to see you here! I'm a Fullstack Developer Student at Driven Education. I am passionate about technology and I enjoy a nice challenge.
+  My name is Yugo Sakamoto, it's nice to see you here! I'm a Fullstack Developer. I am passionate about technology and I enjoy a nice challenge.
  
 ### How I got into coding?
   As a young freshman in UFPR (Federal University of Paraná), I had a subject about programming, where I learned the basics of C++ and that caught my attention, much more than any of the other subjects I was taking. A few semesters later, I decided I would learn about that as a hobby, but I accidentally had found my passion. I started studying Fullstack Development at Driven Education, and that pointed me to a carreer path I hadn't even thought when entering university. As of now, I have learned different technologies and developed several projects during the learning procces.
